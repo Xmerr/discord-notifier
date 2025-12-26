@@ -1,6 +1,6 @@
 {
   "name": "@xmer/discord-notifier",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Discord bot client for posting rich embeds, handling interactive components, and managing messages",
   "repository": "https://github.com/Xmerr/discord-notifier.git",
   "main": "dist/index.js",
