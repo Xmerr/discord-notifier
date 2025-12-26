@@ -1,0 +1,43 @@
+{
+  "successfulMessage": {
+    "id": "1234567890123456789",
+    "channelId": "9876543210987654321",
+    "guildId": "1111111111111111111",
+    "content": "Test message",
+    "embeds": [],
+    "createdTimestamp": 1640000000000
+  },
+  "messageWith Embed": {
+    "id": "2345678901234567890",
+    "channelId": "9876543210987654321",
+    "guildId": "1111111111111111111",
+    "content": "",
+    "embeds": [
+      {
+        "title": "Test Embed",
+        "description": "Test description",
+        "color": 16711680
+      }
+    ],
+    "createdTimestamp": 1640000000000
+  },
+  "rateLimitError": {
+    "status": 429,
+    "statusCode": 429,
+    "message": "You are being rate limited.",
+    "retryAfter": 2000,
+    "retry_after": 2
+  },
+  "permissionError": {
+    "status": 403,
+    "statusCode": 403,
+    "message": "Missing Permissions",
+    "code": 50013
+  },
+  "notFoundError": {
+    "status": 404,
+    "statusCode": 404,
+    "message": "Unknown Channel",
+    "code": 10003
+  }
+}
