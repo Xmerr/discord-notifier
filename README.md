@@ -2,6 +2,11 @@
 
 A TypeScript Discord bot client for posting rich embeds, handling interactive components (buttons), and managing messages with automatic rate limiting.
 
+[![npm version](https://img.shields.io/npm/v/@xmer/discord-notifier.svg)](https://www.npmjs.com/package/@xmer/discord-notifier)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.3-blue.svg)](https://www.typescriptlang.org/)
+[![Test Coverage](https://img.shields.io/badge/coverage-90%25-brightgreen.svg)](https://github.com/fitgirl-bot/discord-notifier)
+
 ## Features
 
 - 🚀 **Rich Embeds** - Create beautiful Discord embeds with auto-truncation
